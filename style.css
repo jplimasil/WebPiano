@@ -10,6 +10,11 @@ body{
     align-items: center;
 }
 
+.cont{
+    display: relative;
+    left: 900px;
+}
+
 .piano{
     display: flex;
     margin: auto;
